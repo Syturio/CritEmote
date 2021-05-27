@@ -1,0 +1,20 @@
+## Interface: 30300
+## Title: |cFF6441A4(Lord Syturio) |cFF66597F- |cFFFF7D0ACritEmote
+## Notes: www.github.com/Syturio.
+## Author: Lord Syturio
+## Version: 1.0
+## OptionalDeps: Ace2
+
+Libs\LibGUIDRegistry-0.1\LibStub\LibStub.lua
+Libs\Ace2\AceLibrary\AceLibrary.lua
+Libs\Ace2\AceOO-2.0\AceOO-2.0.lua
+Libs\Ace2\AceAddon-2.0\AceAddon-2.0.lua
+Libs\Ace2\AceDB-2.0\AceDB-2.0.lua
+Libs\Ace2\AceConsole-2.0\AceConsole-2.0.lua
+Libs\Ace2\AceEvent-2.0\AceEvent-2.0.lua
+Libs\Ace2\AceLocale-2.2\AceLocale-2.2.lua
+Libs\Ace2\AceHook-2.1\AceHook-2.1.lua
+Libs\LibGUIDRegistry-0.1\CallbackHandler-1.0\CallbackHandler-1.0.xml
+Libs\LibGUIDRegistry-0.1\LibGUIDRegistry-0.1\lib.xml
+
+CritEmote.lua
