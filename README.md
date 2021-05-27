@@ -1,5 +1,5 @@
 ## Description
-Crit Emote is a basic addon that posts a /emote on chat every time you spell crit for more than X amount (7000 by default).
+CritEmote is a basic addon that posts a /emote on chat every time you spell crit for more than X amount (7000 by default).
 
 This allows everyone to see for how much you critted, including in Arena.
 
